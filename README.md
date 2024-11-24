@@ -12,7 +12,7 @@ Integrate WhatsApp Bot with Gemini API. This project is a simple WhatsApp bot th
 
 ## :rocket: How to Install
 
-1. Create API Key on [aistudio](https://aistudio.google.com/app/apikey)
+1. Create API Key on [aistudio](https://aistudio.google.com/app/apikey) Free
 2. Clone this repository
    ```bash
     git clone https://github.com/ferdyhape/Whatsapp-Bot-Gemini-Baileys.git
