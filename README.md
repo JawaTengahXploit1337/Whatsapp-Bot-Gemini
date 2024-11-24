@@ -1,4 +1,4 @@
-# WABot Gemini
+# WhatsApp Bot Gemini
 
 ## :open_book: Description
 
@@ -12,14 +12,14 @@ Integrate WhatsApp Bot with Gemini API. This project is a simple WhatsApp bot th
 
 ## :rocket: How to Install
 
-1. Create API Key on [aistudio](https://aistudio.google.com/app/apikey)
+1. Create API Key on [aistudio](https://aistudio.google.com/app/apikey) Free
 2. Clone this repository
    ```bash
-    git clone https://github.com/ferdyhape/Whatsapp-Bot-Gemini-Baileys.git
+    git clone https://github.com/JawaTengahXploit1337/Whatsapp-Bot-Gemini.git
    ```
 3. Go to the project directory and install the dependencies
    ```bash
-    cd Whatsapp-Bot-Gemini-Baileys
+    cd Whatsapp-Bot-Gemini
     npm install
    ```
 4. Copy `.env.example` to `.env` and paste your API Key to `GEMINI_API_KEY`
@@ -47,4 +47,4 @@ Integrate WhatsApp Bot with Gemini API. This project is a simple WhatsApp bot th
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdy-hahan-pradana)
 [![instagram](https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferdyhape)
-[![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdyhape)
+[![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JawaTengahXploit1337)
