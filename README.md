@@ -1,4 +1,4 @@
-# WABot Gemini
+# WhatsApp Bot Gemini 
 
 ## :open_book: Description
 
@@ -36,9 +36,9 @@ Integrate WhatsApp Bot with Gemini API. This project is a simple WhatsApp bot th
 6. Open your browser and go to `http://localhost:8000/scan` to scan the QR Code with your WhatsApp app (this device will integrate with the bot)
 7. After scanning the QR Code, your whatsapp bot is ready to use
 <!-- Kirim pesan ke bot WhatsApp Anda dengan pesan yang include `/bot` ke whatsapp yang sebelumnya telah di scan qr -->
-8. Send a message to your WhatsApp bot with a message that includes `/bot` to the WhatsApp that has been scanned previously with the QR Code, for example:
+8. Send a message to your WhatsApp bot with a message that includes `.bot` to the WhatsApp that has been scanned previously with the QR Code, for example:
    ```bash
-    hello /bot, how are you?
+    hello .bot, how are you?
    ```
 9. Wait a moment, the bot will reply to your message.
 10. Enjoy!
